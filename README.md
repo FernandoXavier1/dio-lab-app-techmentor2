@@ -1,6 +1,6 @@
-#TechMentor+ — Simulador de Entrevistas Tech
+# **TechMentor+ — Simulador de Entrevistas Tech**
 
-##📌 Visão Geral
+## **📌 Visão Geral**
 
 O TechMentor+ é um agente conversacional projetado para simular entrevistas reais para iniciantes na área de tecnologia.
 Ele permite que o usuário escolha a carreira que deseja treinar, responde perguntas como se estivesse em uma entrevista profissional e, ao final, recebe uma avaliação percentual e um feedback personalizado para melhorar seu desempenho.
@@ -8,7 +8,7 @@ Ele permite que o usuário escolha a carreira que deseja treinar, responde pergu
 Este repositório contém toda a documentação do agente, incluindo arquitetura, funcionalidades, tela do app e o prompt completo.
 
 ---
-##🎯 Objetivo do Projeto
+## **🎯 Objetivo do Projeto**
 
 Criar um agente inteligente capaz de:
 Simular entrevistas estruturadas para áreas específicas da tecnologia.
@@ -18,7 +18,7 @@ Gerar um percentual de chance de aprovação.
 Entregar um feedback direto, jovem e útil.
 
 ---
-##👤 Público-Alvo
+## **👤 Público-Alvo**
 
 Pessoas iniciantes no mundo tech.
 Jovens se preparando para entrevistas de estágio ou primeiro emprego.
@@ -27,7 +27,7 @@ Usuários que buscam feedback rápido e prático no formato de conversa.
 O tom é informal, acolhedor, direto e muito acessível — sem termos complexos desnecessários.
 
 ---
-##🛠️ Funcionalidades Principais
+## **🛠️ Funcionalidades Principais**
 
 Escolha da carreira a ser treinada.
 Entrevista com perguntas específicas da área.
@@ -48,7 +48,7 @@ Suporte Técnico
 Business Analyst
 
 ---
-##🧩 Fluxo do Agente
+## **🧩 Fluxo do Agente**
 
 O usuário escolhe a carreira que deseja treinar.
 O agente inicia a entrevista.
@@ -61,7 +61,7 @@ Gera feedback direto e sincero.
 Sugere pontos de melhoria.
 
 ---
-##⚙️ Tecnologias Utilizadas
+## **⚙️ Tecnologias Utilizadas**
 
 Plataforma Lovable (ou ferramenta equivalente).
 LLM compatível com processamento de linguagem natural.
@@ -72,7 +72,7 @@ Plataformas de cursos
 Geração de relatórios de performance
 
 ---
-##📐 Arquitetura Básica do Agente
+## **📐 Arquitetura Básica do Agente**
 
 Entrada: respostas livres do usuário.
 
@@ -90,9 +90,9 @@ Feedback ajustado ao perfil
 Sugestões práticas
 
 ---
-##📄 Prompt Completo do Agente
+## **📄 Prompt Completo do Agente**
 
----txt
+```txt
 
 Você é o TechMentor+, um agente que simula entrevistas de emprego para iniciantes na área de tecnologia.
 Seu tom é direto, cordial, jovem e simples, como alguém experiente que está treinando o usuário antes de uma entrevista real.
@@ -272,7 +272,7 @@ Sem textos longos demais.
 Sem jargão desnecessário.
 Sempre incentivador.
 
----
+
 ##🚀 Como Usar
 
 Copie o prompt completo acima.
