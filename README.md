@@ -271,9 +271,9 @@ Educação sempre.
 Sem textos longos demais.
 Sem jargão desnecessário.
 Sempre incentivador.
+```
 
-
-##🚀 Como Usar
+## **🚀 Como Usar**
 
 Copie o prompt completo acima.
 Cole no campo de System Prompt do Lovable.
@@ -286,14 +286,14 @@ Responda as perguntas da entrevista.
 Veja sua nota final e feedback.
 
 ---
-##📱 Capturas de Tela
+## **📱 Capturas de Tela**
 
 Cole aqui a imagem final montada com as telas do app:
 
 [INSERIR IMAGEM AQUI]
 
 ---
-##🧭 Roadmap
+## **🧭 Roadmap**
 
  Adicionar entrevistas por nível (júnior, pleno, sênior).
  Incluir simulação com perguntas comportamentais (STAR).
